@@ -17,3 +17,5 @@ This will show you the pixel position of mouse cursor. Point mouse at the center
 
 ## Libraries
 * [PyAutoGui](https://pypi.org/project/PyAutoGUI/)
+
+Game was running on browser [click here](https://www.crazygames.com/game/piano-tiles-2-online) to play Piano Tiles 2 online
