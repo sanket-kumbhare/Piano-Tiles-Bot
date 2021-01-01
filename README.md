@@ -2,7 +2,7 @@
 
 ## Description
 Simple Piano Tiles Bot made by using PyAutoGui Library. <br><br>
-<img src="https://github.com/Sanket-Kumbhare/Piano-Tiles-Bot/blob/master/src/piano_tiles_gameplay.gif" width="500" />
+<img src="https://github.com/Sanket-Kumbhare/Piano-Tiles-Bot/blob/master/src/piano_tiles_gameplay.gif" width="600" />
 
 ## Working
 - First we have to find out the pixel position of the tiles. This can be done by using running following command in python shell.
